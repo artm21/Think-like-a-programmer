@@ -7,9 +7,9 @@ Theses problems are my first programs with C++. It's also a way to improve my sk
 ## Pure puzzle :
 ---
 
-Sapin : not in the book but it consists to draw fir tree. 
+sapin : not in the book but it consists to draw fir tree. 
 
-Luhn_Checksum : This program consists to verify if an integer respects the Luhn formula other or not.
+Luhn_sumcheck : This program consists to verify if an integer respects the Luhn formula other or not.
 
-Decode_the_message : The goal is to decipher a message according to the rules of the cipher.
+decode_the_message : The goal is to decipher a message according to the rules of the cipher.
 

@@ -7,9 +7,11 @@ Theses problems are my first programs with C++. It's also a way to improve my sk
 ## Pure puzzle :
 ---
 
-sapin : not in the book but it consists to draw fir tree. 
+Sapin : not in the book but it consists to draw fir tree. 
 
 Luhn_sumcheck : This program consists to verify if an integer respects the Luhn formula other or not.
 
-decode_the_message : The goal is to decipher a message according to the rules of the cipher.
+Decode_the_message : The goal is to decipher a message according to the rules of the cipher.
+
+Codage_en_base_N : Converts any number base-16 or less to any other base.
 

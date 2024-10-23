@@ -15,3 +15,8 @@ Decode_the_message : The goal is to decipher a message according to the rules of
 
 Codage_en_base_N : Converts any number base-16 or less to any other base.
 
+## Solving problems with arrays
+---
+
+
+

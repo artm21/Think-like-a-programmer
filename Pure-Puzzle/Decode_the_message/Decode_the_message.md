@@ -14,32 +14,32 @@ At the beginning of each message, the decoding mode is uppercase letters. Each t
 Think Like A Programmer, V. ANTON SPRAUL, P.41
 
 Punctuation table :
+
 1 -> "!" 
+
 2 -> "?"
+
 3 -> ","
+
 4 -> "."
+
 5 -> " "
+
 6 -> ";"
+
 7 -> '"'
+
 8 -> "'"
 
 Exemple : 
+
 Decode_the_message(
-18
-12312
-171
-763
-98423
-1208
-216
-11
-500
-18
-241
-0
-32
-20620
-27
-10 )
+
+18  12312  171  763  98423
+
+1208  216  11  500  18
+
+241  0  32  20620  27  10 )
+
 ---> Right? Yes! 
 

@@ -13,7 +13,7 @@ At the beginning of each message, the decoding mode is uppercase letters. Each t
 
 Think Like A Programmer, V. ANTON SPRAUL, P.41
 
-Punctuation table :
+<u> Punctuation table : </u> 
 
 1 -> "!" 
 

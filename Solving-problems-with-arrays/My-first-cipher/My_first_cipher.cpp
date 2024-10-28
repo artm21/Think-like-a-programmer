@@ -2,7 +2,7 @@
 #include <string>
 using namespace std ;
 
-//I will implement my Cesar cipher with a decalage of 3 
+//I will implement my Cesar cipher with a shift of 3 
 //The case of a ASCII value which is out of the uppercase letter will be replace by a space 
 int char_to_ascii(char lettre) ;
 char plain_to_cipher(char plain_char) ;

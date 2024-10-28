@@ -20,3 +20,7 @@ Codage_en_base_N : Converts any number base-16 or less to any other base.
 
 Quck_sort_student_grade : This is an implementation of the quick sort algorithm for students record which includes their ID, name and grade.
 
+Check_sort_array : Check if an Integer array is sort or not.
+
+My_first_cipher : This is an implementation of the Cesar's cipher with a shift of 3 characters.
+
